@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mine-block Forums.
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on PvPTemple / GOVERI / SunucuDuragi.
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: Discord: suddlefrv#0003
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: Making a website
